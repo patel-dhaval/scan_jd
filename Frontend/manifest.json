@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "ScanJD",
+    "version": "1.0",
+    "description": "Free Chrome Extension for streamlining your job search",
+    "permissions": [
+      "activeTab"
+    ],
+    "content_scripts": [
+      {
+        "matches": ["<all_urls>"],
+        "js": ["content.js"]
+      }
+    ]
+  }
+  
