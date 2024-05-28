@@ -32,7 +32,7 @@ Scan JD is a free Chrome extension designed to relieve your job search frustrati
     - Click on 'Manage extensions'
     - On top right, select 'Developer mode' if not already on
     - Select 'Load unpacked'
-    - It will open a folder selection window, select the Folder SCAN_JD that you cloned from GitHub
+    - It will open a folder selection window, select the Folder Frontend that you cloned from GitHub
 
 3. Obtain your Free API key or use your paid GPT key:
     - Go to https://dashboard.cohere.com/api-keys
